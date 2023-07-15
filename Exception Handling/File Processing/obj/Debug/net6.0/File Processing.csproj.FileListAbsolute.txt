@@ -1,0 +1,15 @@
+C:\Users\Supraja Konchada\source\repos\File Processing\File Processing\bin\Debug\net6.0\File Processing.exe
+C:\Users\Supraja Konchada\source\repos\File Processing\File Processing\bin\Debug\net6.0\File Processing.deps.json
+C:\Users\Supraja Konchada\source\repos\File Processing\File Processing\bin\Debug\net6.0\File Processing.runtimeconfig.json
+C:\Users\Supraja Konchada\source\repos\File Processing\File Processing\bin\Debug\net6.0\File Processing.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\File Processing\bin\Debug\net6.0\File Processing.pdb
+C:\Users\Supraja Konchada\source\repos\File Processing\File Processing\obj\Debug\net6.0\File Processing.csproj.AssemblyReference.cache
+C:\Users\Supraja Konchada\source\repos\File Processing\File Processing\obj\Debug\net6.0\File Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supraja Konchada\source\repos\File Processing\File Processing\obj\Debug\net6.0\File Processing.AssemblyInfoInputs.cache
+C:\Users\Supraja Konchada\source\repos\File Processing\File Processing\obj\Debug\net6.0\File Processing.AssemblyInfo.cs
+C:\Users\Supraja Konchada\source\repos\File Processing\File Processing\obj\Debug\net6.0\File Processing.csproj.CoreCompileInputs.cache
+C:\Users\Supraja Konchada\source\repos\File Processing\File Processing\obj\Debug\net6.0\File Processing.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\File Processing\obj\Debug\net6.0\refint\File Processing.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\File Processing\obj\Debug\net6.0\File Processing.pdb
+C:\Users\Supraja Konchada\source\repos\File Processing\File Processing\obj\Debug\net6.0\File Processing.genruntimeconfig.cache
+C:\Users\Supraja Konchada\source\repos\File Processing\File Processing\obj\Debug\net6.0\ref\File Processing.dll

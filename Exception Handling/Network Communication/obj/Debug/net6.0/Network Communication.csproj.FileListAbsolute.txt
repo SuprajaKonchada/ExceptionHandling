@@ -1,0 +1,15 @@
+C:\Users\Supraja Konchada\source\repos\File Processing\Network Communication\bin\Debug\net6.0\Network Communication.exe
+C:\Users\Supraja Konchada\source\repos\File Processing\Network Communication\bin\Debug\net6.0\Network Communication.deps.json
+C:\Users\Supraja Konchada\source\repos\File Processing\Network Communication\bin\Debug\net6.0\Network Communication.runtimeconfig.json
+C:\Users\Supraja Konchada\source\repos\File Processing\Network Communication\bin\Debug\net6.0\Network Communication.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\Network Communication\bin\Debug\net6.0\Network Communication.pdb
+C:\Users\Supraja Konchada\source\repos\File Processing\Network Communication\obj\Debug\net6.0\Network Communication.csproj.AssemblyReference.cache
+C:\Users\Supraja Konchada\source\repos\File Processing\Network Communication\obj\Debug\net6.0\Network Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supraja Konchada\source\repos\File Processing\Network Communication\obj\Debug\net6.0\Network Communication.AssemblyInfoInputs.cache
+C:\Users\Supraja Konchada\source\repos\File Processing\Network Communication\obj\Debug\net6.0\Network Communication.AssemblyInfo.cs
+C:\Users\Supraja Konchada\source\repos\File Processing\Network Communication\obj\Debug\net6.0\Network Communication.csproj.CoreCompileInputs.cache
+C:\Users\Supraja Konchada\source\repos\File Processing\Network Communication\obj\Debug\net6.0\Network Communication.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\Network Communication\obj\Debug\net6.0\refint\Network Communication.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\Network Communication\obj\Debug\net6.0\Network Communication.pdb
+C:\Users\Supraja Konchada\source\repos\File Processing\Network Communication\obj\Debug\net6.0\Network Communication.genruntimeconfig.cache
+C:\Users\Supraja Konchada\source\repos\File Processing\Network Communication\obj\Debug\net6.0\ref\Network Communication.dll

@@ -1,0 +1,22 @@
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\bin\Debug\net6.0\Database Operations.exe
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\bin\Debug\net6.0\Database Operations.deps.json
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\bin\Debug\net6.0\Database Operations.runtimeconfig.json
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\bin\Debug\net6.0\Database Operations.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\bin\Debug\net6.0\Database Operations.pdb
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\obj\Debug\net6.0\Database Operations.csproj.AssemblyReference.cache
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\obj\Debug\net6.0\Database Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\obj\Debug\net6.0\Database Operations.AssemblyInfoInputs.cache
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\obj\Debug\net6.0\Database Operations.AssemblyInfo.cs
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\obj\Debug\net6.0\Database Operations.csproj.CoreCompileInputs.cache
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\obj\Debug\net6.0\Database Operations.csproj.CopyComplete
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\obj\Debug\net6.0\Database Operations.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\obj\Debug\net6.0\refint\Database Operations.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\obj\Debug\net6.0\Database Operations.pdb
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\obj\Debug\net6.0\Database Operations.genruntimeconfig.cache
+C:\Users\Supraja Konchada\source\repos\File Processing\Database Operations\obj\Debug\net6.0\ref\Database Operations.dll

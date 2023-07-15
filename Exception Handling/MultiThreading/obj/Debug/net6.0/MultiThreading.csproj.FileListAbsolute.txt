@@ -1,0 +1,15 @@
+C:\Users\Supraja Konchada\source\repos\File Processing\MultiThreading\bin\Debug\net6.0\MultiThreading.exe
+C:\Users\Supraja Konchada\source\repos\File Processing\MultiThreading\bin\Debug\net6.0\MultiThreading.deps.json
+C:\Users\Supraja Konchada\source\repos\File Processing\MultiThreading\bin\Debug\net6.0\MultiThreading.runtimeconfig.json
+C:\Users\Supraja Konchada\source\repos\File Processing\MultiThreading\bin\Debug\net6.0\MultiThreading.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\MultiThreading\bin\Debug\net6.0\MultiThreading.pdb
+C:\Users\Supraja Konchada\source\repos\File Processing\MultiThreading\obj\Debug\net6.0\MultiThreading.csproj.AssemblyReference.cache
+C:\Users\Supraja Konchada\source\repos\File Processing\MultiThreading\obj\Debug\net6.0\MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supraja Konchada\source\repos\File Processing\MultiThreading\obj\Debug\net6.0\MultiThreading.AssemblyInfoInputs.cache
+C:\Users\Supraja Konchada\source\repos\File Processing\MultiThreading\obj\Debug\net6.0\MultiThreading.AssemblyInfo.cs
+C:\Users\Supraja Konchada\source\repos\File Processing\MultiThreading\obj\Debug\net6.0\MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\Supraja Konchada\source\repos\File Processing\MultiThreading\obj\Debug\net6.0\MultiThreading.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\MultiThreading\obj\Debug\net6.0\refint\MultiThreading.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\MultiThreading\obj\Debug\net6.0\MultiThreading.pdb
+C:\Users\Supraja Konchada\source\repos\File Processing\MultiThreading\obj\Debug\net6.0\MultiThreading.genruntimeconfig.cache
+C:\Users\Supraja Konchada\source\repos\File Processing\MultiThreading\obj\Debug\net6.0\ref\MultiThreading.dll

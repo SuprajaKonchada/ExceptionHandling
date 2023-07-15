@@ -1,0 +1,15 @@
+C:\Users\Supraja Konchada\source\repos\File Processing\Input Validation\bin\Debug\net6.0\Input Validation.exe
+C:\Users\Supraja Konchada\source\repos\File Processing\Input Validation\bin\Debug\net6.0\Input Validation.deps.json
+C:\Users\Supraja Konchada\source\repos\File Processing\Input Validation\bin\Debug\net6.0\Input Validation.runtimeconfig.json
+C:\Users\Supraja Konchada\source\repos\File Processing\Input Validation\bin\Debug\net6.0\Input Validation.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\Input Validation\bin\Debug\net6.0\Input Validation.pdb
+C:\Users\Supraja Konchada\source\repos\File Processing\Input Validation\obj\Debug\net6.0\Input Validation.csproj.AssemblyReference.cache
+C:\Users\Supraja Konchada\source\repos\File Processing\Input Validation\obj\Debug\net6.0\Input Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Supraja Konchada\source\repos\File Processing\Input Validation\obj\Debug\net6.0\Input Validation.AssemblyInfoInputs.cache
+C:\Users\Supraja Konchada\source\repos\File Processing\Input Validation\obj\Debug\net6.0\Input Validation.AssemblyInfo.cs
+C:\Users\Supraja Konchada\source\repos\File Processing\Input Validation\obj\Debug\net6.0\Input Validation.csproj.CoreCompileInputs.cache
+C:\Users\Supraja Konchada\source\repos\File Processing\Input Validation\obj\Debug\net6.0\Input Validation.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\Input Validation\obj\Debug\net6.0\refint\Input Validation.dll
+C:\Users\Supraja Konchada\source\repos\File Processing\Input Validation\obj\Debug\net6.0\Input Validation.pdb
+C:\Users\Supraja Konchada\source\repos\File Processing\Input Validation\obj\Debug\net6.0\Input Validation.genruntimeconfig.cache
+C:\Users\Supraja Konchada\source\repos\File Processing\Input Validation\obj\Debug\net6.0\ref\Input Validation.dll
